@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "fullName": "test user",
+      "email": "test1@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "fullName": "test Data",
+      "email": "test@gmail.com",
+      "password": "1234",
+      "id": 2
+    },
+    {
+      "fullName": "Matheus Cardoso Pesca",
+      "email": "matheus@gmail.com",
+      "password": "123456",
+      "id": 3
+    },
+    {
+      "fullName": "teste teste teste",
+      "email": "teste@gmail.com",
+      "password": "12345",
+      "id": 4
+    },
+    {
+      "fullName": "b b b",
+      "email": "b@gmail.com",
+      "password": "123",
+      "id": 5
+    },
+    {
+      "fullName": "teste usuario offline",
+      "email": "testeoff@gmail.com",
+      "password": "123",
+      "id": 6
+    },
+    {
+      "fullName": "s s s",
+      "email": "s@gmail.com",
+      "password": "1234",
+      "id": 7
+    },
+    {
+      "fullName": "teste para entrevista",
+      "email": "rajiv@gmail.com",
+      "password": "1234",
+      "id": 8
+    },
+    {
+      "fullName": "teste do cypress",
+      "email": "teste2@gmail.com",
+      "password": "123456",
+      "id": 9
+    }
+  ]
+}
